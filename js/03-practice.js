@@ -18,7 +18,7 @@
 
 // °C
 
-const BASE_URL = "http://api.weatherapi.com/v1";
+const BASE_URL = "https://api.weatherapi.com/v1";
 const API_KEY = "2f11846a6adc4e3eb6f115653251510";
 
 const form = document.querySelector(".js-search-form");
